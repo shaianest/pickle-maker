@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pickle-maker/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/pickle-maker/static/js/main.cbe3913e.chunk.js",
-    "main.js.map": "/pickle-maker/static/js/main.cbe3913e.chunk.js.map",
+    "main.js": "/pickle-maker/static/js/main.f83757c4.chunk.js",
+    "main.js.map": "/pickle-maker/static/js/main.f83757c4.chunk.js.map",
     "runtime-main.js": "/pickle-maker/static/js/runtime-main.d8bd3647.js",
     "runtime-main.js.map": "/pickle-maker/static/js/runtime-main.d8bd3647.js.map",
     "static/js/2.92ee2a35.chunk.js": "/pickle-maker/static/js/2.92ee2a35.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d8bd3647.js",
     "static/js/2.92ee2a35.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.cbe3913e.chunk.js"
+    "static/js/main.f83757c4.chunk.js"
   ]
 }
