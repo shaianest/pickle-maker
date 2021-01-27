@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pickle-maker/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/pickle-maker/static/js/main.ca9bdcd3.chunk.js",
+    "main.js.map": "/pickle-maker/static/js/main.ca9bdcd3.chunk.js.map",
+    "runtime-main.js": "/pickle-maker/static/js/runtime-main.d8bd3647.js",
+    "runtime-main.js.map": "/pickle-maker/static/js/runtime-main.d8bd3647.js.map",
+    "static/js/2.92ee2a35.chunk.js": "/pickle-maker/static/js/2.92ee2a35.chunk.js",
+    "static/js/2.92ee2a35.chunk.js.map": "/pickle-maker/static/js/2.92ee2a35.chunk.js.map",
+    "static/js/3.a4b6ad00.chunk.js": "/pickle-maker/static/js/3.a4b6ad00.chunk.js",
+    "static/js/3.a4b6ad00.chunk.js.map": "/pickle-maker/static/js/3.a4b6ad00.chunk.js.map",
+    "index.html": "/pickle-maker/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/pickle-maker/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.92ee2a35.chunk.js.LICENSE.txt": "/pickle-maker/static/js/2.92ee2a35.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pickle-maker/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8bd3647.js",
+    "static/js/2.92ee2a35.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ca9bdcd3.chunk.js"
+  ]
+}
