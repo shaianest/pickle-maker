@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/pickle-maker/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/pickle-maker/static/js/main.b47e4690.chunk.js",
-    "main.js.map": "/pickle-maker/static/js/main.b47e4690.chunk.js.map",
-    "runtime-main.js": "/pickle-maker/static/js/runtime-main.72ac23b0.js",
-    "runtime-main.js.map": "/pickle-maker/static/js/runtime-main.72ac23b0.js.map",
+    "main.css": "/pickle-maker/static/css/main.6e2d164c.chunk.css",
+    "main.js": "/pickle-maker/static/js/main.2d2754cc.chunk.js",
+    "main.js.map": "/pickle-maker/static/js/main.2d2754cc.chunk.js.map",
+    "runtime-main.js": "/pickle-maker/static/js/runtime-main.4ce01888.js",
+    "runtime-main.js.map": "/pickle-maker/static/js/runtime-main.4ce01888.js.map",
     "static/js/2.bc633a7b.chunk.js": "/pickle-maker/static/js/2.bc633a7b.chunk.js",
     "static/js/2.bc633a7b.chunk.js.map": "/pickle-maker/static/js/2.bc633a7b.chunk.js.map",
-    "static/js/3.2f0304d7.chunk.js": "/pickle-maker/static/js/3.2f0304d7.chunk.js",
-    "static/js/3.2f0304d7.chunk.js.map": "/pickle-maker/static/js/3.2f0304d7.chunk.js.map",
+    "static/js/3.71b3101c.chunk.js": "/pickle-maker/static/js/3.71b3101c.chunk.js",
+    "static/js/3.71b3101c.chunk.js.map": "/pickle-maker/static/js/3.71b3101c.chunk.js.map",
     "index.html": "/pickle-maker/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/pickle-maker/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.6e2d164c.chunk.css.map": "/pickle-maker/static/css/main.6e2d164c.chunk.css.map",
     "static/js/2.bc633a7b.chunk.js.LICENSE.txt": "/pickle-maker/static/js/2.bc633a7b.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/pickle-maker/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.72ac23b0.js",
+    "static/js/runtime-main.4ce01888.js",
     "static/js/2.bc633a7b.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.b47e4690.chunk.js"
+    "static/css/main.6e2d164c.chunk.css",
+    "static/js/main.2d2754cc.chunk.js"
   ]
 }
