@@ -1,6 +1,5 @@
 {
   "name": "pickle-maker",
-  "homepage": "https://shaianest.github.io/pickle-maker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
