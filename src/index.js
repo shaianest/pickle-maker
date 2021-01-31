@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+console.error('MY CONSOLE IS NOT YOUR PLAY GROUND')
 ReactDOM.render(
   <React.StrictMode>
     <App />
