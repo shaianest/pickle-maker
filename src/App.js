@@ -1,23 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import styled from './App.module.css';
 import Person from "./components/Person";
 import React , { Component } from 'react';
 import Validation from "./components/validation";
-import Char from "./components/Char";
-import styled from "styled-components";
-
-const StyledButton = styled.button`
-background-color: ${props=>props.alt?'red':'green'};
-color: white;
-font: inherit;
-border: 1px solid blue;
-padding: 8px;
-cursor: pointer;
-&:hover {
-  background-color: ${props=>props.alt?'salmon':'lightgreen'};
-  color:black;
-}
-`;
+import Char from "./components/Char"
 
 class App extends Component {
   state = {
@@ -65,6 +52,7 @@ class App extends Component {
     const hrStyle = {
       width: '99%'
     }
+    const btnstyle = [];
     let persons = null;
     if(this.state.showPersons){
       persons = (
@@ -81,19 +69,20 @@ class App extends Component {
           })}
         </div>
       )
+      btnstyle.push(styled.red)
     }
-    console.log(this.state.userInput)
     const charList = this.state.userInput.split('').map((ch,i)=>{
       return <Char character={ch} CharHandler={this.deleteCharHandler.bind(this,i)}/>
     })
     return (
-      <div className="App">
+      <div className={styled.App}>
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             create react App
           </p>
-          <StyledButton alt={this.state.showPersons} onClick={this.togglePersonsHandler}>show persons</StyledButton>
+          {console.log(btnstyle)}
+          <button className={btnstyle} onClick={this.togglePersonsHandler}>show persons</button>
           {persons}
           <hr style={hrStyle} />
           <input type="text" onChange={this.inpChangeHandler} value={this.state.userInput}/>
