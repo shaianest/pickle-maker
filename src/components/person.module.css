@@ -6,3 +6,8 @@
   text-align: center;
   color: black;
 }
+@media (min-width:500px){
+  .person{
+    width: 450px;
+  }
+}

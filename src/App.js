@@ -81,7 +81,6 @@ class App extends Component {
           <p>
             create react App
           </p>
-          {console.log(btnstyle)}
           <button className={btnstyle} onClick={this.togglePersonsHandler}>show persons</button>
           {persons}
           <hr style={hrStyle} />
